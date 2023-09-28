@@ -1,0 +1,36 @@
+Title: Adventure Works Database Dashboard with Power BI
+
+Description:
+Welcome to the Adventure Works Database Dashboard GitHub repository! In this repository, you'll find a comprehensive guide and resources for creating a simple and powerful dashboard using Microsoft Power BI to visualize data from the Adventure Works database. This step-by-step process will help you turn raw data into meaningful insights.
+
+**Step 1: Get Data**
+- Learn how to use connectors to establish a connection with the Adventure Works database.
+- Explore methods for retrieving and importing data into Power BI.
+- Master the art of cleaning and transforming messy data using the Query Editor.
+- Discover how to create and utilize macros for repetitive data cleaning tasks.
+- Implement data clean-up techniques for a more streamlined analysis process.
+
+**Step 2: Relationships**
+- Gain a deep understanding of key concepts related to data relationships.
+- Learn how to create relationships between tables to unlock the full potential of your data.
+- Explore various ways to analyze and manipulate data across multiple tables.
+
+**Step 3: DAX (Data Analysis Expressions)**
+- Dive into the world of DAX to create powerful measures, both implicit and explicit.
+- Understand how to calculate and use calculated columns for additional data insights.
+
+**Step 4: Visuals**
+- Create a diverse range of visualizations, including text, images, cards, and shapes.
+- Explore various chart types such as bar/column charts, line charts, and more.
+- Implement advanced techniques like drill-down and conditional formatting for interactive dashboards.
+- Learn how to create a top 10 products and customers report for valuable insights.
+
+**Step 5: Publish and View in PowerBI.com**
+- Discover how to publish your Power BI dashboard to PowerBI.com for sharing and collaboration.
+- Understand the process of sharing your dashboard with others and managing access.
+- Explore how to schedule data refreshes to keep your dashboard up-to-date.
+- Learn how to view and interact with your dashboard in a web browser using PowerBI.com.
+
+This GitHub repository will provide you with code samples, documentation, and additional resources to help you follow along with each step of the process. By the end of this journey, you'll have a powerful Adventure Works Database Dashboard ready to provide valuable insights for your business or project.
+
+Happy dashboarding!
